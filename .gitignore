@@ -1,0 +1,18 @@
+# build
+src/abc
+src/*.o
+.DS_Store
+
+# latex junk (keep main.pdf/ main.tex/ references.bib)
+report/*.aux
+report/*.log
+report/*.out
+report/*.bbl
+report/*.blg
+report/*.synctex.gz
+report/*.fdb_latexmk
+report/*.fls
+
+# python
+__pycache__/
+*.pyc
