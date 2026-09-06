@@ -8,7 +8,7 @@ Single-threaded C++ ABC rejection sampler. Later milestones add CUDA.
 - `src/` — sampler (`make` → `./abc`)
 - `results/` — csv from the runs in the report
 - `figures/` — plots used in the pdf
-- `report/` — IEEE tex + `main.pdf`
+- `report/` — tex + `main.pdf`
 
 ## Build / run
 
